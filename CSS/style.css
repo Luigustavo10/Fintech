@@ -41,7 +41,7 @@ a {
     width: 90%;
     height: 60vh;
     margin: 10px auto;
-    background-image: url(../Images/slide\ inicial.png);
+    background-image: url(./Images/slide\ inicial.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50%;
